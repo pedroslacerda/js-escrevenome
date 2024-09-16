@@ -1,2 +1,1 @@
-# Link 
-https://pedroslacerda.github.io/js-escrevenome/
+# js-escrevenome
